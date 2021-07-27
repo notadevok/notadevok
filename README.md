@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @notadevok
+- 👀 I’m interested in modding a game called Friday Night Funkin'.
+- 🌱 I’m currently learning Visual Code.
+- 📫 How to reach me: Email vorcefulbeans@gmail.com
